@@ -1,0 +1,6 @@
+Используемые библиотеки:
+requests, datetime, json
+
+
+token_vk.txt - токен вконтакте
+token_ya.txt - токен яндекс
